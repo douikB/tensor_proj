@@ -8,3 +8,5 @@ __pycache__/
 *.exe
 *.xls
 *.xlsx
+*.pkl
+*.keras
